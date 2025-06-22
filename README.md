@@ -6,4 +6,4 @@
 [![Codewars](https://www.codewars.com/users/srahman14/badges/small)](https://www.codewars.com/users/srahman14)
 
 ## My Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,mysql)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,mysql,firebase)
