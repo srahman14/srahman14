@@ -1,7 +1,29 @@
-## My Top Languages:
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srahman14&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
+🎓 Computer Science Student in London, England
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=srahman14&show_icons=true&hide_border=true&theme=github_dark)
+---
 
-## My Skills:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,mysql,firebase)
+## 📊 Stats
+
+<a href="https://github.com/srahman14">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srahman14&show_icons=true&theme=radical" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/srahman14">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srahman14&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
+</a>
+
+---
+
+## ⚙️ Tools & Technologies
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+---
